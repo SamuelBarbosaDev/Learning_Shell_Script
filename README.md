@@ -41,7 +41,7 @@
     - [**_Fontes_**](#fontes)
 
 ### Observação:
-O objetivo deste repositório é registrar o meu aprendizado com Shell Script, além de ser o meu caderno de anotações sobre o tema, para que eu possa revisitar no futuro. O conteúdo abaixo é proveniente do site [União Geek](https://www.uniaogeek.com.br/guia-de-comandos-shell-terminal-gnulinux/).
+O objetivo deste repositório é registrar o meu aprendizado com Shell Script, além de ser o meu caderno de anotações sobre o tema, para que eu possa revisitar no futuro. O conteúdo abaixo é proveniente do site [União Geek](https://www.uniaogeek.com.br/guia-de-comandos-shell-terminal-gnulinux/). 
 
 ### Guia de Comandos SHELL (Terminal GNU/Linux):
 
